@@ -1,0 +1,14 @@
+.Product_Top_Add {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    width: 110%;
+  }
+  li {
+    list-style: none;
+    margin-top: 5px; 
+  }
+  .Add_Product {
+    width : 110%
+  }
